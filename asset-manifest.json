@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notely/static/css/main.0fc7f7ee.css",
+    "main.js": "/Notely/static/js/main.aaa59844.js",
+    "index.html": "/Notely/index.html",
+    "main.0fc7f7ee.css.map": "/Notely/static/css/main.0fc7f7ee.css.map",
+    "main.aaa59844.js.map": "/Notely/static/js/main.aaa59844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc7f7ee.css",
+    "static/js/main.aaa59844.js"
+  ]
+}

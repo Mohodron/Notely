@@ -1,0 +1,21 @@
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    /* overflow-x: hidden; */
+    background-image: radial-gradient(160deg, rgb(94.56, 85.69, 77.62) 100%, rgb(92, 67, 37) 100%);
+}
+
+
+@media screen and (max-width: 2600px) and (min-width: 318px){
+    html,body {
+        height: 100%;
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        /* overflow-x: hidden; */
+        background-image: radial-gradient(rgb(41, 36, 32), rgba(46, 32, 15, 1));
+    }
+}
+
